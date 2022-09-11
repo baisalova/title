@@ -1,0 +1,119 @@
+@media (max-width: 1440px){
+   .container{
+       width: 90%;
+   }
+
+}
+
+@media (max-width: 1200px){
+
+}@media (max-width: 1024px){
+    .hero {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .navbar-title {
+        display: none;
+
+    }
+}
+    .hero-block h1 {
+        font-size: 30px;
+    }
+    .navbar-title h1 {
+        font-size: 24px;
+    }
+    .navbar-title h2 {
+        font-size: 24px;
+    }
+    .navbar-title p {
+        font-size: 24px;
+    }
+    .navbar-title span {
+        font-size: 24px;
+    }
+    .navbar-title h3 {
+        font-size: 24px;
+    }
+    .hero-block p {
+        font-size: 14px;
+    }
+    .hero-block button {
+        width: 150px;
+        height: 40px;
+    }
+    .header-block div h1 {
+        font-size: 30px;
+    }
+    .header-block {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .header-block div h2 {
+        font-size: 35px;
+    }
+
+.input div p {
+    font-size: 25px;
+}
+.input div input {
+    width: 90%;
+    height: 38.61px;
+}
+.icons-block h1 {
+    font-size: 34px;
+
+}
+.icons-block h2 {
+    font-size: 40px;
+
+}
+.icons-title {
+    justify-content: center;
+    flex-direction: column;
+}
+.footer-block {
+    justify-content: center;
+    flex-direction: column;
+}
+.footer h1 {
+    font-size: 32px;
+
+}
+.footer input {
+    width: 90%;
+    height: 40px;
+}
+.footer h2 {
+    font-size: 25px;
+}.footer p {
+
+     font-size: 25px;
+
+ }
+.footer div button {
+    width: 181px;
+    height: 46px;
+}
+
+
+
+
+
+    @media (max-width: 992px){
+
+}@media (max-width: 768px){
+
+}@media (max-width: 576px){
+
+}@media (max-width: 450px){
+
+}@media (max-width: 400px){
+
+}@media (max-width: 380px){
+
+}@media (max-width: 375px){  }
+
+@media (max-width: 320px){  }
